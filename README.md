@@ -13,6 +13,10 @@ Pakistani cybersecurity enthusiast | Malware analysis | CTF write-ups
 - [ ] Write 12 technical blogs  
 - [ ] Earn first bug-bounty $$  
 
-> "I don’t exfil data. I exfil truth."
+
+
 > ![IMG_20251110_034908](https://github.com/user-attachments/assets/c5b475ae-eb7c-47ed-8d70-31235f852585)
 
+
+
+>"I don’t exfil data. I exfil truth."
