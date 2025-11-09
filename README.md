@@ -31,5 +31,8 @@ Pakistani cybersecurity enthusiast | Malware analysis | CTF write-ups
   <a href="https://twitter.com/CryptoGhost_PK">🐦 @CryptoGhost_PK</a> ·
   <a href="https://github.com/CryptoGhost">💻 GitHub</a>
 </p>
+<p align="center">
+  📧 <a href="mailto:cryptoghost-f@proton.me"><strong>cryptoghost-f@proton.me</strong></a>
+</p>
 
 >"I don’t exfil data. I exfil truth."
