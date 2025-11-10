@@ -16,7 +16,7 @@ Pakistani cybersecurity enthusiast | Malware analysis | CTF write-ups
 
 
 >![IMG_20251110_045130](https://github.com/user-attachments/assets/1b78b0ed-5c78-4740-b051-2f1221a9b7a1)
-
+>
 >"I don’t exfil data. I exfil truth."
 
 
